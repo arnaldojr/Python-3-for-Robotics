@@ -5,4 +5,5 @@ Exercicios resolvidos do curso Python 3 for Robotics da robot ignite academy.
 
 link: https://www.robotigniteacademy.com
 
-youtube: 
+Youtube: 
+labirinto.py - https://youtu.be/5ADdIPpZ2pA
